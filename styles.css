@@ -7,6 +7,7 @@ body {
 }
 .img1 {
     position: absolute;
+    top: 0px;
     left: 0px;
     width: 375px;
     border-top-left-radius: 8px;
