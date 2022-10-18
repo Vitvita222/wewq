@@ -2,19 +2,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,700&display=swap');
 
 
-body {
-    
+.cont{
+    margin: 0 auto;
+    width: 375px;
 }
+
 .img1 {
-    position: absolute;
-    top: 0px;
+    /*position: absolute;*/
     left: 0px;
+    top: 0px;
     width: 375px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
 }
 .rect1 {
-    position: absolute;
+    /*position: absolute;*/
     top: 260px;
     left: 0px;
     width: 375px;
@@ -25,14 +27,14 @@ body {
     border-bottom-right-radius: 8px;
 }
 .text1 {
-    position: absolute;
+    /*position: absolute;*/
     top: 30px;
     left: 30px;
     color: rgb(125, 125, 125);
     font-family: 'Montserrat', sans-serif;
 }
 .text2 {
-    position: absolute;
+    /*position: absolute;*/
     top: 30px;
     left: 30px;
     font-size: 40px;
@@ -40,13 +42,13 @@ body {
     font-family: 'Fraunces', serif;
 }
 .text3 {
-    position: absolute;
+    /*position: absolute;*/
     top: 160px;
     left: 30px;
     color: rgb(125, 125, 125);
 }
 .text4{
-    position: absolute;
+    /* position: absolute; */
     top: 260px;
     left: 30px;
     font-family: 'Fraunces', serif;
@@ -54,13 +56,13 @@ body {
     color: hsl(158, 36%, 37%);
 }
 .text5 {
-    position: absolute;
+    /* position: absolute; */
     top: 300px;
     left: 185px;
     font-family: 'Fraunces', serif;
 }
 .btn-1 {
-    position: absolute;
+    /* position: absolute; */
     left: 30px;
     top: 380px;
     width: 265px;
@@ -74,7 +76,7 @@ body {
     transition: 0.3s;
 }
 .cart1 {
-    position: absolute;
+    /* position: absolute; */
     left: 30px;
     top: 15px;
     width: 20px;
